@@ -1,0 +1,17 @@
+Library/
+Temp/
+obj/
+Builds/
+*.apk
+*.aab
+*.unitypackage
+ProjectSettings/
+*.log
+*.csproj
+*.sln
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+build/
+dist/
